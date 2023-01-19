@@ -1,0 +1,61 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/Vanilla-2.9s-280pxExtra.gif</file>
+        <file>img/Untitled design.png</file>
+        <file>img/cool-gif-cigarette.gif</file>
+        <file>img/3019920-inline-smoking-masks-1.webp</file>
+        <file>img/stopsmoking.jpg</file>
+        <file>img/101-1010284_mild-cognitive-impairment-cognition-cognitive-disorder-memory-clipart-removebg-preview.png</file>
+        <file>img/968720-200.png</file>
+        <file>img/1629328-200.png</file>
+        <file>img/6688600_preview.png</file>
+        <file>img/6691494_preview.png</file>
+        <file>img/brain-power-3-622469-removebg-preview.png</file>
+        <file>img/png-clipart-depression-computer-icons-major-depressive-disorder-sadness-sad-angle-text-removebg-preview.png</file>
+        <file>img/Nida10-ins2_d2ec.jpg</file>
+        <file>img/793-7930803_anxious-fidgety-restless-uneasy-icon-hd-png-download-removebg-preview.png</file>
+        <file>img/2758521-200-removebg-preview.png</file>
+        <file>img/1491195-removebg-preview.png</file>
+        <file>img/512x512bb-removebg-preview.png</file>
+        <file>img/222973.png</file>
+        <file>img/paper-clip-icon-4.jpg</file>
+        <file>img/quit-smoking.gif</file>
+        <file>img/ezgif.com-gif-maker.gif</file>
+        <file>img/Untitled_design__1_-removebg-preview.png</file>
+        <file>img/00.jpg</file>
+        <file>img/login.jpeg</file>
+        <file>img/11.jpg</file>
+        <file>img/membership-concept-template-registration-register-260nw-1123073468.png</file>
+        <file>img/1090401.jpg</file>
+        <file>img/photo-1523821741446-edb2b68bb7a0.jpeg</file>
+        <file>img/457700d4e2fa7bc5db48b0c6b1ddc087.png</file>
+        <file>img/bae68dbc40def6e2f31aa7b24b04e461.jpg</file>
+        <file>img/Dark-wallpaper-desktop-background-31-700x394.jpg</file>
+        <file>img/photo-1562907550-096d3bf9b25c.jpeg</file>
+        <file>img/aaa.png</file>
+        <file>img/5f84ac608c8e5.jpg</file>
+    </qresource>
+    <qresource prefix="/dd">
+        <file>other/ezgif.com-gif-maker.png</file>
+        <file>other/about-us-1.jpg</file>
+        <file>other/Developer-icon.png</file>
+        <file>other/195-1951784_info-icon-svg-transparent-background-information-icon-hd.png</file>
+        <file>other/8eKYud.jpg</file>
+        <file>other/360_F_264451404_s4Dhf0mQZdg1N4Gx9RrwfnIIjBiZQ459.jpg</file>
+        <file>other/deep.jpg</file>
+        <file>other/user.png</file>
+        <file>other/admin.png</file>
+        <file>other/close.png</file>
+        <file>other/close-icon-12.jpg</file>
+        <file>other/images.png</file>
+        <file>other/dddd.png</file>
+        <file>other/logout_icon_151219-removebg-preview.png</file>
+        <file>other/download-removebg-preview.png</file>
+        <file>other/kisspng-computer-icons-deep-work-clip-art-check-engine-5b36798be46ae2.4181146615302967159356-removebg-preview.png</file>
+        <file>other/hrmkhyspg4vwptt5frzp-removebg-preview.png</file>
+        <file>other/images-removebg-preview.png</file>
+        <file>other/1 (1).png</file>
+        <file>other/1 (2).png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
